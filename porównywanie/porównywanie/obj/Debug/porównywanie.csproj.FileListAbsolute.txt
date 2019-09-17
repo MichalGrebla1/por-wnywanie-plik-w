@@ -1,0 +1,8 @@
+C:\Users\micha\source\repos\porównywanie\porównywanie\bin\Debug\porównywanie.exe.config
+C:\Users\micha\source\repos\porównywanie\porównywanie\bin\Debug\porównywanie.exe
+C:\Users\micha\source\repos\porównywanie\porównywanie\bin\Debug\porównywanie.pdb
+C:\Users\micha\source\repos\porównywanie\porównywanie\obj\Debug\porównywanie.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\porównywanie\porównywanie\obj\Debug\porównywanie.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\porównywanie\porównywanie\obj\Debug\porównywanie.exe
+C:\Users\micha\source\repos\porównywanie\porównywanie\obj\Debug\porównywanie.pdb
+C:\Users\micha\source\repos\porównywanie\porównywanie\bin\Debug\x.wav
